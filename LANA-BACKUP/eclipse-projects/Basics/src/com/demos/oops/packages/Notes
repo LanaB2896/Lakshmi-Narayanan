@@ -1,0 +1,14 @@
+Packages:
+To make types easier to find and use, to avoid naming conflicts, 
+and to control access, programmers bundle groups of related types into packages.
+
+Types :
+String
+
+Primitive Data Types (values)
+byte
+int 
+float
+double
+
+Access modifiers : public protected default private.

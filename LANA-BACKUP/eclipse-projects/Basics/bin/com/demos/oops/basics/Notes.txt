@@ -1,0 +1,3 @@
+Primitive types hold only values.
+? Identify all the primitive types.
+Abstract types : classes, they have methods and variables inside.
